@@ -1,0 +1,1 @@
+this file basically a detailed guide of how the pull request should need to be made in order to be accepted by the account holder and all the guidelines needed to be followed in order to mandate the pull request 
